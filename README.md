@@ -50,3 +50,47 @@ It was chosen because:
 3. User data must be securely stored and encrypted
 
 # UML Diagramm
+
+## Project Plan
+
+The development process is organized using a Kanban board. Tasks are grouped into logical stages that represent the main phases of the project.
+
+### Stage 1 — Project Setup
+In this stage, the basic project structure is created.
+- Set up frontend, backend, and mobile applications
+- Configure database (PostgreSQL)
+- Initialize GitHub repository and CI/CD pipeline
+
+### Stage 2 — Core Backend Development
+Focus on implementing main server functionality.
+- User authentication (registration/login)
+- Database schema design
+- REST API structure setup
+- Basic security and middleware
+
+### Stage 3 — Core Features Implementation
+Development of main system functionality.
+- Booking system
+- Schedule management
+- Trainer management
+- User profile and membership features
+
+### Stage 4 — Frontend & Mobile Development
+Implementation of user interfaces.
+- Web dashboard (React)
+- Mobile application (React Native)
+- Responsive design improvements
+- API integration
+
+### Stage 5 — Testing & Improvements
+Final stabilization phase.
+- Bug fixing
+- Error handling improvements
+- Performance optimization
+- UI/UX improvements
+
+### Stage 6 — Deployment & Documentation
+Final preparation for release.
+- CI/CD pipeline finalization
+- Project documentation completion
+- Deployment setup
