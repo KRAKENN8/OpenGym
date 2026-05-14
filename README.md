@@ -17,7 +17,7 @@ The platform is designed for gym owners, administrators, personal trainers, and 
 - **Mobile Application:** React Native
 - **Database:** PostgreSQL
 - **Architecture:** Layered architecture
-- **Tools:** Docker, GitHub Actions, Figma, Postman
+- **Tools:** CI/CD, GitHub Actions, Figma, Postman
 
 ## Architecture
 
