@@ -1,3 +1,4 @@
+
 # OpenGym
 
 ## Project Description 
@@ -50,7 +51,7 @@ It was chosen because:
 3. User data must be securely stored and encrypted
 
 # UML Diagramm
-
+<img width="830" height="742" alt="1 drawio" src="https://github.com/user-attachments/assets/1fec09da-4321-4b67-9d20-b16118b21289" />
 ## Project Plan
 
 The development process is organized using a Kanban board. Tasks are grouped into logical stages that represent the main phases of the project.
